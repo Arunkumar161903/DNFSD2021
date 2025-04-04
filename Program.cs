@@ -4,7 +4,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 // Add services to the container.
-
+arun
 builder.Services.AddControllers();
 builder.Services.AddScoped<StudentRep>();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
